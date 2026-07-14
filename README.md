@@ -1,10 +1,10 @@
-# Hi, I'm Kavya 👋
+# Hi, I'm Kavya 
 
-CS undergrad at RV College of Engineering · AI/ML enthusiast · I build full-stack products with an ML core — mostly for Indian-context problems (GST compliance, vernacular banking, CBSE assessment).
+CS (Cyber Security) undergrad at RV College of Engineering · AI/ML enthusiast · I build full-stack products with an ML core — mostly for Indian-context problems (GST compliance, vernacular banking, CBSE assessment).
 
 **Stack:** Python · TypeScript · C · FastAPI · Next.js/React · Streamlit · scikit-learn · Gemini API · MySQL/SQLite · Docker
 
-## 🚀 Projects
+##  Projects
 
 | Project | What it is | Stack | Live |
 |---|---|---|---|
@@ -16,4 +16,4 @@ CS undergrad at RV College of Engineering · AI/ML enthusiast · I build full-st
 | [vocational_learning](https://github.com/kav-cmd/vocational_learning) | Adaptive vocational e-learning platform with AI tutor, competency scoring, OTP auth, multilingual UI | TypeScript, React, Node, Supabase | — |
 | [osam-voice-banking](https://github.com/kav-cmd/osam-voice-banking) | Voice-first banking prototype for IPPB in Hindi, Tamil & English — built for users who can't read or see | FastAPI, Flutter, Web Speech | — |
 
-📫 Reach me: *add your email / LinkedIn here*
+ --> Reach me: linkedin.com/in/kavya-trivedi-351876336
