@@ -5,7 +5,7 @@ CS (Cyber Security) undergrad at RV College of Engineering · AI/ML enthusiast �
 | Project | What it is | Stack | Live |
 |---|---|---|---|
 | [Trinex](https://github.com/kav-cmd/Trinex) | Multi-layer fraud detection: NLP (DistilBERT) + post-quantum crypto + RF fingerprinting, fused into one trust score (rogue-TX ROC AUC 0.9992) | Python, PyTorch, ML | [▶ live](https://kav-cmd.github.io/Trinex/) |
-| [Project Raseed](https://github.com/kav-cmd/Project-Raseed) | Multi-agent AI copilot for SME GST compliance — notice interpretation, invoices, cash-flow analysis. *I built the Next.js frontend + typed API layer* | FastAPI, Next.js, Gemini | — |
+| [Project Raseed](https://github.com/kav-cmd/Project-Raseed) | Multi-agent AI copilot for SME GST compliance — notice interpretation, invoices, cash-flow analysis. *I built the Next.js frontend + typed API layer* | FastAPI, Next.js, Gemini | — | [▶ live](https://project-raseed.vercel.app/login) |
 | [BloomSetu](https://github.com/kav-cmd/BloomSetu) | AI assessment platform for Indian curricula: Bloom's-taxonomy question generation + SBERT semantic answer evaluation | Python, Streamlit, SBERT | [▶ live](https://bloomsetu.streamlit.app/) |
 | [threat-detector-api](https://github.com/kav-cmd/threat-detector-api) | URL & message threat scanning API — ML classifier + AI security chat, rate-limited and audit-logged | FastAPI, scikit-learn | [▶ live](https://threat-detector-api-1.onrender.com/) |
 | [login-security-lab](https://github.com/kav-cmd/login-security-lab) | Educational security lab: intentionally vulnerable login app + attack simulations + live defense dashboard (deliberately **not** hosted — it's attack tooling) | Python, Flask, Streamlit | demo GIF in repo |
