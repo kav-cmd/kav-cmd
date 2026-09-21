@@ -11,4 +11,5 @@ CS (Cyber Security) undergrad at RV College of Engineering · AI/ML enthusiast �
 | [login-security-lab](https://github.com/kav-cmd/login-security-lab) | Educational security lab: intentionally vulnerable login app + attack simulations + live defense dashboard (deliberately **not** hosted — it's attack tooling) | Python, Flask, Streamlit | demo GIF in repo |
 | [vocational_learning](https://github.com/kav-cmd/vocational_learning) | Adaptive vocational e-learning platform with AI tutor, competency scoring, OTP auth, multilingual UI | TypeScript, React, Node, Supabase | — |
 | [osam-voice-banking](https://github.com/kav-cmd/osam-voice-banking) | Voice-first banking prototype for IPPB in Hindi, Tamil & English — built for users who can't read or see | FastAPI, Flutter, Web Speech | — |
+| [Dbms-EL](https://github.com/kav-cmd/Dbms-EL) | Food Donation Management System — donors list surplus food, recipients request it, volunteers deliver. Built around a normalized 3NF MySQL schema (11 tables) with request/assignment tracking and feedback | Next.js, MySQL, Docker | [▶ live](https://dbms-el-kavya-d64c.vercel.app/) |
  --> Reach me: linkedin.com/in/kavya-trivedi-351876336
